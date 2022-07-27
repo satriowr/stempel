@@ -1,0 +1,20 @@
+email : ariska@gmail.com
+pass : ariska
+
+email : devinoventi@gmail.com
+pass : devinoventi
+
+email : andelia@gmail.com
+pass : andelia
+
+email : latifah@gmail.com
+pass : latifah
+
+email : iraaaaa@gmail.com
+pass : iraaaaa
+
+email : melisa@gmail.com
+pass : melisa
+
+email : dandieka@gmail.com
+pass : dandieka
